@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+   
+}
+
+.card {
+    background: coral;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+
+h1 {
+    padding-top: 10px;
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 14px;
+    letter-spacing: 28px;
+}
+
+p {
+    background: chocolate;
+    text-align: justify;
+    font-size: 10px;
+    padding: 20px;
+}
